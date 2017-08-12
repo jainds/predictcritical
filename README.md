@@ -3,7 +3,7 @@
 I dive into and analyse daily coal stock reports
 of Indian thermal power plants for the years 2009-2012. The data is
 available as part of the Republic of India’s Open Government Data
-(OGD) Initiative and can be accessed at http://bit.ly/1yfkXZN or by
+(OGD) Initiative and can be accessed at https://data.gov.in/catalog/coal-statement-thermal-power-stations or by
 searching for “Coal Statement of Thermal Power Stations” at data.gov.in.
 
 I have arranged the 48 CSV files into a continuous time series data
